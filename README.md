@@ -15,9 +15,9 @@
 
 ## 项目列表
 
-| 项目名称 | 功能简介 | 预览 |
-|---------|---------|------|
-| [Vlog日记](https://github.com/HovanZhang2k/uniapp/tree/24a8dde7309caa058c80f96da946da82df970428/vlog-diary) | 支持文字、图片、视频记录的个人日记应用，包含用户认证、日记管理、日历导航等功能 | ![Vlog预览](demo/demo4.png) |
+| 项目名称 | 功能简介 |
+|---------|---------|
+| [Vlog日记](https://github.com/HovanZhang2k/uniapp/tree/24a8dde7309caa058c80f96da946da82df970428/vlog-diary) | 支持文字、图片、视频记录的个人日记应用，包含用户认证、日记管理、日历导航等功能 |
 
 ## Vlog日记应用
 
