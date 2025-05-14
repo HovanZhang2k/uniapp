@@ -98,7 +98,7 @@
 
 ## 后端集成
 
-项目提供了完整的后端开发需求文档，位于`docs/backend_integration_guide.txt`，包含：
+项目提供了完整的后端开发需求文档`backend_integration_guide.txt`，包含：
 
 - API接口规范
 - 数据库设计
