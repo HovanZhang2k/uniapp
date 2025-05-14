@@ -20,7 +20,7 @@
 提供用户登录功能，支持邮箱和手机号格式验证。
 
 <div align="center">
-  <img src="demo/demo1.jpg" alt="登录界面" width="300"/>
+  <img src="demo/demo1.png" alt="登录界面" width="300"/>
 </div>
 
 ### 2. 登录加载
@@ -28,7 +28,7 @@
 登录过程中显示连接服务器的加载动画，增强用户体验。
 
 <div align="center">
-  <img src="demo/demo2.jpg" alt="登录加载" width="300"/>
+  <img src="demo/demo2.png" alt="登录加载" width="300"/>
 </div>
 
 ### 3. 注册验证
@@ -36,7 +36,7 @@
 严格的注册表单验证，包括账户格式验证、密码强度检查和重复密码确认。
 
 <div align="center">
-  <img src="demo/demo3.jpg" alt="注册验证" width="300"/>
+  <img src="demo/demo3.png" alt="注册验证" width="300"/>
 </div>
 
 ### 4. 主页界面
@@ -44,7 +44,7 @@
 显示用户日记列表，未登录用户无法访问。主页支持日期导航和日记预览，封面为随机颜色。
 
 <div align="center">
-  <img src="demo/demo4.jpg" alt="主页界面" width="300"/>
+  <img src="demo/demo4.png" alt="主页界面" width="300"/>
 </div>
 
 ### 5. 新增日记
@@ -52,7 +52,7 @@
 用户可以创建新日记，添加标题、内容、Vlog视频和封面图片。
 
 <div align="center">
-  <img src="demo/demo5.jpg" alt="新增日记" width="300"/>
+  <img src="demo/demo5.png" alt="新增日记" width="300"/>
 </div>
 
 ### 6. 编辑日记
@@ -60,7 +60,7 @@
 编辑已有日记的内容，支持修改文字内容和媒体文件。图为无图片/视频的编辑界面。
 
 <div align="center">
-  <img src="demo/demo6.jpg" alt="编辑日记-无媒体" width="300"/>
+  <img src="demo/demo6.png" alt="编辑日记-无媒体" width="300"/>
 </div>
 
 ### 7. 日期选择器
@@ -68,7 +68,7 @@
 精美的日期选择器，支持日期切换和月份导航，方便查看不同日期的日记。
 
 <div align="center">
-  <img src="demo/demo7.jpg" alt="日期选择器" width="300"/>
+  <img src="demo/demo7.png" alt="日期选择器" width="300"/>
 </div>
 
 ### 8. 主页封面效果
@@ -76,7 +76,7 @@
 当日记有封面图时，主页会显示实际封面而非随机颜色。
 
 <div align="center">
-  <img src="demo/demo8.jpg" alt="主页封面效果" width="300"/>
+  <img src="demo/demo8.png" alt="主页封面效果" width="300"/>
 </div>
 
 ### 9. 编辑日记-带媒体
@@ -84,7 +84,7 @@
 编辑带有图片或视频的日记界面，支持预览和更换媒体内容。
 
 <div align="center">
-  <img src="demo/demo9.jpg" alt="编辑日记-带媒体" width="300"/>
+  <img src="demo/demo9.png" alt="编辑日记-带媒体" width="300"/>
 </div>
 
 ## 技术特性
